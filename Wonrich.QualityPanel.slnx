@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Wonrich.QualityPanel/Wonrich.QualityPanel.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Wonrich.QualityPanel.Tests/Wonrich.QualityPanel.Tests.csproj" />
+  </Folder>
+</Solution>
